@@ -4,7 +4,7 @@ using JSON: JSON
 using ....Documenter.JSDependencies: RemoteLibrary, Snippet, RequireJS, jsescape, json_jsescape
 using ..HTMLWriter: KaTeX, MathJax, MathJax2, MathJax3
 
-const requirejs_cdn = "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js"
+const requirejs_cdn = "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.7/require.min.js"
 const lato = "https://cdnjs.cloudflare.com/ajax/libs/lato-font/3.0.0/css/lato-font.min.css"
 const juliamono = "https://cdnjs.cloudflare.com/ajax/libs/juliamono/0.050/juliamono.min.css"
 const fontawesome_version = "6.4.2"
